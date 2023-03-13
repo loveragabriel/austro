@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/austro/static/css/main.073c9b0a.css",
-    "main.js": "/austro/static/js/main.e86e63b4.js",
+    "main.css": "/austro/static/css/main.e6c13ad2.css",
+    "main.js": "/austro/static/js/main.28e96122.js",
     "static/js/787.9ecfbfaf.chunk.js": "/austro/static/js/787.9ecfbfaf.chunk.js",
-    "static/media/logo.svg": "/austro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/austro/index.html",
-    "main.073c9b0a.css.map": "/austro/static/css/main.073c9b0a.css.map",
-    "main.e86e63b4.js.map": "/austro/static/js/main.e86e63b4.js.map",
+    "static/media/Austro-icon.svg": "/austro/static/media/Austro-icon.1f06013b84548b240abecf850ae658c1.svg",
+    "main.e6c13ad2.css.map": "/austro/static/css/main.e6c13ad2.css.map",
+    "main.28e96122.js.map": "/austro/static/js/main.28e96122.js.map",
     "787.9ecfbfaf.chunk.js.map": "/austro/static/js/787.9ecfbfaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e86e63b4.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.28e96122.js"
   ]
 }
